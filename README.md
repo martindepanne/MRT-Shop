@@ -28,10 +28,6 @@
        node index.js
     ```
 
-## <a id="majs"></a> 🌐 〢 MAJS
-
-- Pour mettre à jour, il suffit de conserver la database et la config puis de les glisser dans un dossier à jour
-
 ### <a id="terms"></a>💼 〢 Terms Of Usage
 
 - [x] Educational purpose only.

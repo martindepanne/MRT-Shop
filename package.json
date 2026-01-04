@@ -1,0 +1,13 @@
+{
+    "name": "mrt-shop",
+    "version": "1.0.0",
+    "description": "A Shop Bot",
+    "main": "index.js",
+    "type": "module",
+    "author": "martindepanne",
+    "dependencies": {
+        "better-sqlite3": "^12.5.0",
+        "discord.js": "^14.13.0",
+        "quick.db": "^9.1.7"
+    }
+}

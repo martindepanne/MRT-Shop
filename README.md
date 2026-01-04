@@ -6,6 +6,7 @@
 ## <a id="menu"></a>🍃 〢 Menu
 
 - [⚙️・Setting up](#setup)
+- [💻・Install](#install)
 - [💼・Term](#terms)
 - [🕵️‍♂️・Authors](#authors)
 - [🪄・Discord](https://guns.lol/martindepanne)
